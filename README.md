@@ -1,4 +1,6 @@
 # cs25pinhanluo
 GitHub Pages Exercise ===========
-Involves * git * GitHub
+Involves 
+* git
+* GitHub
 * SSH
